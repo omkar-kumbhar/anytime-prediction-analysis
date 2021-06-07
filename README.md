@@ -1,5 +1,8 @@
 # HumanRT
 SAT based data collected from humans in the presense of noise, blur and color.
+
+![Survey on Data Collection](video/survey-recording.gif)
+
 ## About
 Data collected on human reaction time on an object recognition task with increasing
 difficulty by having a rigid time regime and pertubations.
